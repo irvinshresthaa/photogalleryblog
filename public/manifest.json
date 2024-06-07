@@ -1,7 +1,6 @@
 {
-    "id": "any_id",
-    "name": "Next.js PWA - Tutorial",
-    "short_name": "Next PWA",
+    "name": "Photogallery",
+    "short_name": "Photogallery",
     "description": "This next.js app is a PWA.",
     "icons": [
       {

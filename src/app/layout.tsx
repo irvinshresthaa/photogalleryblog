@@ -3,7 +3,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   manifest: "/manifest.json", // we are accessing our manifest file here
-  title: "...",
+  title: "Photogallery",
   // ... other options    
 };
 
